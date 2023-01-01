@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Post": 11
+  },
+  "models": {
+    "Post": {
+      "9": "{\"title\":\"Ethiopia\",\"body\":\"one can id\",\"id\":9}",
+      "10": "{\"title\":\"German\",\"body\":\"German which is one of well knwo country\",\"id\":10}"
+    }
+  }
+}
